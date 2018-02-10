@@ -12,7 +12,7 @@ doks:
             - item_name: Contact
               item_url: '/#'
             - item_name: Newsletter
-              item_url: 'https://www.getrevue.co/profile/hass'
+              item_url: 'http://newsletter.hass.codes/'
     footer:
         content:
             logo:

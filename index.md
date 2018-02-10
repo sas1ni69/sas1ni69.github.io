@@ -12,7 +12,7 @@ buttons:
       external_url: false
     - icon: chevron-right
       content: Subscribe to my newsletter
-      url: 'https://www.getrevue.co/profile/hass'
+      url: 'http://newsletter.hass.codes/'
       external_url: true
 
 # Author box
