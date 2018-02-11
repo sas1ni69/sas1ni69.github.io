@@ -20,7 +20,7 @@ author:
     title: About me
     title_url: '#'
     external_url: true
-    description: I'm a Ruby and Javascript developer working on <a href="https://cliniko.com" target="_blank">Cliniko</a>. <br><br>I am based in Kuala Lumpur, Malaysia.
+    description: My name is Hassanin Ahmed, I'm a Ruby and Javascript developer working on <a href="https://cliniko.com" target="_blank">Cliniko</a>. <br><br>I am based in Kuala Lumpur, Malaysia.
 
 # Grid navigation
 grid_navigation:
